@@ -1,0 +1,67 @@
+.red-banner{
+    height: 800px;
+    width: 70px;
+    background-color: #D55037;
+    margin-right: 10px;
+}
+
+.h-font{
+    font-size: 60px;
+    font-weight: bold;
+    height: 60px;
+}
+.content-div{
+    height: 800px; 
+    width: 250px;
+}
+.top-row{
+    height: 150px; 
+    font-size: 7px; 
+    font-weight: bold;
+}
+
+.mid-row{
+    height: 500px;
+
+}
+
+.bottom-row{
+    height: 150px;
+    position:relative;
+}
+
+.vert-text{
+    writing-mode: tb-rl; 
+    float: right;
+}
+
+.mini-text{
+    font-size: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+    height: 500px;
+    margin-top: 10px;
+}
+.bottom-time-text{
+    display: flex;
+    font-weight: bold;
+    font-size: 32px;
+    position: absolute;
+    height: 100px;
+    bottom: 0;
+}
+.i-span{
+    color: #D55037;
+}
+
+.russ-div{
+    font-size: 9px;
+    font-weight: bold; 
+    position: absolute; 
+    bottom: 0;
+}
+
+.russ.head{
+    font-size: 17px; 
+    font-weight: bold;
+}
